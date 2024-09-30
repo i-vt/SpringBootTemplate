@@ -1,5 +1,5 @@
 # SpringBootTemplate
-
+Simple boilerplate for SpringBoot 3.3.4 (Java 23) Gradle project 
 
 ## Disclaimer for "SpringBootTemplate":
 
